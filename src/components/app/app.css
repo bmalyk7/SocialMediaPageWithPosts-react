@@ -1,0 +1,10 @@
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+
+.photo_wrapper{
+  display: flex;
+  align-items: start;
+}
